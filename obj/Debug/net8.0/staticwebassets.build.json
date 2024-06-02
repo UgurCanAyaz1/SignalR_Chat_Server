@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "36ZfxuoQSImUqLKrNDEiF2JoV+via/FXd9zfwuRx6hw=",
+  "Source": "SignalR_Chat_Server",
+  "BasePath": "_content/SignalR_Chat_Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
